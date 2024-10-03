@@ -1,0 +1,29 @@
+{
+  "name": "list-prs",
+  "version": "1.0.0",
+  "description": "A Node.js script to list pull requests from GitHub using GitHub CLI",
+  "main": "listprs.js",
+  "type": "module",
+  "scripts": {
+    "start": "node listprs.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "node-fetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "jsdom": "^25.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

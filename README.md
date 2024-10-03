@@ -4,7 +4,7 @@ A presentation of the experiment in Norwegian is [here](https://docs.google.com/
 
 The bashscript used in the experiment is [here](listprs-bash/listprs.sh).
 
-If you are inside SpareBank 1 Utvikling@´s organization, you can read the details about each language conversion [here].(https://sb1u.atlassian.net/wiki/spaces/UTV/pages/1022361831/2024+10+Oversetting+av+bob+bashscript+til+mer+utviklervennlige+spr+k+ved+hjelp+av+GPT)
+If you are inside SpareBank 1 Utvikling@´s organization, you can read the details about each language conversion [here](https://sb1u.atlassian.net/wiki/spaces/UTV/pages/1022361831/2024+10+Oversetting+av+bob+bashscript+til+mer+utviklervennlige+spr+k+ved+hjelp+av+GPT).
 
 The conversion into Python, Kotlin, Rust and NodeJS was done using OpenAI´s GPT feature.
 
